@@ -8,6 +8,8 @@ Tool Used: Power BI
 
 Dataset: Supermarket Sales (Myanmar)
 
+Source: Kaggle
+
 📌 Objective
 To analyze supermarket sales performance by uncovering Total Revenue trends across different cities, product lines, payment types, and time. The goal is to deliver actionable insights that support strategic business decisions.
 
